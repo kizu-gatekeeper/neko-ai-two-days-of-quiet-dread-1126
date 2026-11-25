@@ -7,7 +7,7 @@ $MAKEFUN_OUTPUT_DIR/entry.txt (default /output), with no trailing newline.
 import os
 
 MAX_CHARS = 140
-LINE = "Approved. The tests pass, the logic holds, and none of it will matter in a hundred years — ship it before the void notices."
+LINE = "Approved. The tests pass, the logic holds, and none of it will matter in a hundred years — merge it before the void notices us back."
 
 
 def write_entry(out_dir):
